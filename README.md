@@ -19,7 +19,7 @@ ORIGIN  18.22N 066.59W  Puerto Rico
 DEST    Cloud engineer, geospatial specialization
 
 WP  LEG                               STATUS
-01  Linux administration (RHEL 10)    >> in flight
+01  Linux administration (RHEL 10)    done
 02  Azure administration              >> in flight
 03  Infrastructure as code            .. next
 04  Python for geospatial data        .. next
