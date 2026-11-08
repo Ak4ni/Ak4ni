@@ -1,18 +1,69 @@
-<h3 align="center">I am passionate linux user that want to become a DevOps engineer</h3>
+<a href="https://yourdomain.com">
+  <img src="./assets/banner.svg" alt="Andres Rivera. Cloud infrastructure, Linux systems and geospatial data. Puerto Rico." width="100%">
+</a>
 
-- 🔭 I’m currently working on **Studying for CKAD**
-
-- 🌱 I’m currently learning **Python automation for DevOps**
-
-- 👯 I’m looking to collaborate on **Any linux project, please give me some change.**
-
-- 🤝 I’m looking for help with **Begging skills to learn with a team**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://yourdomain.com"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-yourdomain.com-e8a33d?style=flat-square&labelColor=111111"></a>
+  <a href="https://www.linkedin.com/in/your-handle/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-connect-e8a33d?style=flat-square&labelColor=111111"></a>
+  <a href="https://pages.cyberspace.online/your_name/"><img alt="Cyberspace" src="https://img.shields.io/badge/cyberspace-pages-e8a33d?style=flat-square&labelColor=111111"></a>
+  <a href="mailto:you@yourdomain.com"><img alt="Email" src="https://img.shields.io/badge/email-say%20hi-e8a33d?style=flat-square&labelColor=111111"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+I build where infrastructure meets maps: Linux systems, cloud environments, automation, and geospatial tools for the Caribbean. Everything I ship comes with the code, an architecture diagram, and an honest write-up of what broke.
 
+### 🛰️ Flight plan
+
+```text
+ROUTE   Linux  ->  Cloud  ->  Automation  ->  Geospatial
+ORIGIN  18.22N 066.59W  Puerto Rico
+DEST    Cloud engineer, geospatial specialization
+
+WP  LEG                               STATUS
+01  Linux administration (RHEL 10)    >> in flight
+02  Azure administration              >> in flight
+03  Infrastructure as code            .. next
+04  Python for geospatial data        .. next
+05  Cloud-hosted geospatial platform  .. planned
+```
+
+### Now
+
+- Working through Linux administration on Red Hat Enterprise Linux 10, entirely in a home lab
+- Hands-on Azure: identity, networking, backup and monitoring
+- Running a self-hosted Raspberry Pi 5 stack: Docker, WireGuard, Pi-hole with Unbound, Prometheus and Grafana
+- Building portfolio projects in private. Each one goes public here, with a write-up, when it's finished
+
+### Toolbox
+
+**Every day**<br>
+<img alt="Linux" src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=e8a33d">
+<img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20%2F%20CachyOS-111111?style=flat-square&logo=archlinux&logoColor=e8a33d">
+<img alt="Bash" src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=e8a33d">
+<img alt="Git" src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=e8a33d">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=e8a33d">
+<img alt="Neovim" src="https://img.shields.io/badge/Neovim-111111?style=flat-square&logo=neovim&logoColor=e8a33d">
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-111111?style=flat-square&logo=raspberrypi&logoColor=e8a33d">
+<img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-111111?style=flat-square&logo=cloudflare&logoColor=e8a33d">
+
+**Learning**<br>
+<img alt="Red Hat" src="https://img.shields.io/badge/RHEL-111111?style=flat-square&logo=redhat&logoColor=e8a33d">
+<img alt="Azure" src="https://img.shields.io/badge/Azure-111111?style=flat-square">
+<img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=e8a33d">
+<img alt="Terraform" src="https://img.shields.io/badge/Terraform-111111?style=flat-square&logo=terraform&logoColor=e8a33d">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square&logo=githubactions&logoColor=e8a33d">
+
+**Next**<br>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostGIS-111111?style=flat-square&logo=postgresql&logoColor=e8a33d">
+<img alt="QGIS" src="https://img.shields.io/badge/QGIS-111111?style=flat-square&logo=qgis&logoColor=e8a33d">
+<img alt="GDAL" src="https://img.shields.io/badge/GDAL-111111?style=flat-square">
+<img alt="MapLibre" src="https://img.shields.io/badge/MapLibre-111111?style=flat-square">
+
+### Off the clock
+
+- 🏁 FPV drone racing: trained in simulators, working toward racing in Puerto Rico
+- ♟️ Chess: rapid and daily as [Akanikun](https://www.chess.com/member/Akanikun) on Chess.com, puzzles on [Lichess](https://lichess.org/@/Akanikun)
+- 📷 Photography on a 2009 Olympus PEN with a manual 35mm lens
+- 🗺️ Maps, history and archaeology of the Caribbean
+
+<p align="center"><sub>Portfolio self-hosted on a Raspberry Pi 5 in Puerto Rico, served through a Cloudflare Tunnel.</sub></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak4ni&" alt="ak4ni" /></p>
