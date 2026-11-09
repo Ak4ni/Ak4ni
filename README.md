@@ -3,10 +3,10 @@
 </a>
 
 <p align="center">
-  <a href="https://arpgeo.dev"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-yourdomain.com-e8a33d?style=flat-square&labelColor=111111"></a>
+  <a href="https://arpgeo.dev"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-arpgeo.dev-e8a33d?style=flat-square&labelColor=111111"></a>
   <a href="https://www.linkedin.com/in/your-handle/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-connect-e8a33d?style=flat-square&labelColor=111111"></a>
   <a href="https://cyberspace.online/linchomelu/"><img alt="Cyberspace" src="https://img.shields.io/badge/cyberspace-pages-e8a33d?style=flat-square&labelColor=111111"></a>
-  <a href="mailto:asrivera.98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-say%20hi-e8a33d?style=flat-square&labelColor=111111"></a>
+  <a href="mailto:andres@arpgeo.dev"><img alt="Email" src="https://img.shields.io/badge/email-say%20hi-e8a33d?style=flat-square&labelColor=111111"></a>
 </p>
 
 I build where infrastructure meets maps: Linux systems, cloud environments, automation, and geospatial tools for the Caribbean. Everything I ship comes with the code, an architecture diagram, and an honest write-up of what broke.
